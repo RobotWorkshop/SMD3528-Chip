@@ -4,7 +4,8 @@ Experiments with the SMD3528 RGB LED chip
 Hello!
 
 A month ago I ordered 100 cheap RGB LED chips from china (SMD 3528) and noticed that there aren't any clear guides online written. This is a simple project that can be used to help you with any 3.3V-5V LED chips.
-Supplies
+
+
 For pictures see here: https://www.instructables.com/RGB-LED-SMD3528-Chip-and-Arduino/
 
 BOM
